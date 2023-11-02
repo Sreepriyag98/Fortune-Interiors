@@ -1,0 +1,373 @@
+body{
+    height: 100vh;
+}
+.container {
+    position: relative;
+    background-color: #2B2929;
+}
+.container2{
+    margin-left: -5%;
+}
+.container3{
+    margin-left: 5%;
+}
+.img1{
+width: 8%;
+margin-left: -8.2%;
+margin-bottom: -2%;
+}
+.img2{
+    position: relative;
+    width: 1300px;
+    height: 500px;
+    margin-left: -20%;
+}
+.header{
+    margin-top: -1%;
+    margin-left: 10%;
+}
+
+.home{
+    margin-left: 10%;
+    color: #FFCB11;
+    font-size: 95%;
+    font-weight: 280;
+}
+.aboutus{
+ 
+    margin-left: 25%;
+    margin-top: -2.5%;
+    color: rgb(255, 255, 255);
+    font-size: 95%;
+    font-weight: 280;
+}
+.service{
+ 
+    margin-left: 40%;
+    margin-top: -2.6%;
+    color: rgb(255, 255, 255);
+    font-size: 95%;
+    font-weight: 280;
+}
+.projects{
+ 
+    margin-left: 55%;
+    margin-top: -2.6%;
+    color: rgb(255, 255, 255);
+    font-size: 95%;
+    font-weight: 280;
+}
+.contact{
+ 
+    margin-left: 70%;
+    margin-top: -2.6%;
+    color: rgb(255, 255, 255);
+    font-size: 95%;
+    font-weight: 280;
+}
+.bookappoinments{
+
+    color: #FFF;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+ transform: translate(-50%, -50%);
+ margin-left: -15%;
+ margin-top: 10%;
+    border: none;
+    width: 200px;
+    height: 41px;
+    flex-shrink: 0;
+    border-radius: 5px;
+    background: rgb(161, 160, 160) 40% / cover no-repeat;
+mix-blend-mode: hard-light;
+}
+.scroll1{
+    display: grid;
+position: absolute; 
+    top: 0;
+    left: 0; 
+  flex-shrink: 0;
+    height: 140%;
+    width: 1300px;
+    margin-left: -1%;
+   margin-top: 47%;
+ 
+}
+.about{
+    margin-left: 47%;
+    margin-top: 3%;
+    color: #FFF;
+    font-size: 120%;
+    font-weight:300 ;
+}
+.our{
+    margin-left: 47%;
+    margin-top: 3%;
+    color: #FFF;
+    font-size: 120%;
+    font-weight:300 ;
+}
+.vertical-line {
+    border-left: 1px solid #8b8b8b; 
+    height: 400px; 
+    margin: 0 auto; 
+margin-left: 45%;
+margin-top: -22.5%;
+}
+.img3{
+    width: 500px;
+    height: 400px;
+    margin-top: -31%;
+    margin-left: 7%;
+}
+.p1{
+    color: #FFF;
+    font-weight: 300;
+    margin-left: 47%;
+    
+}
+.hr1{
+    border-bottom: 1px solid #ffffff; 
+color: #FFF;
+margin-top: -.5%;
+width: 75%;
+margin-left: 15%;
+}
+.img4{
+    width: 500px;
+    height: 350px;
+    margin-top: -24%;
+    margin-left: 7%;
+}
+.serv{
+    margin-left: 47%;
+    margin-top: 3%;
+    color: #FFF;
+    font-size: 120%;
+    font-weight:300 ;
+} 
+.scroll2{
+    display: grid;
+    position: absolute; 
+        top: 0;
+        left: 0; 
+      flex-shrink: 0;
+        height: 80%;
+        width: 1300px;
+        margin-left: -1%;
+        margin-top: 115.5%;
+}
+.ourproject{
+    margin-left: 18%;
+    margin-top: -12.5%;
+    color:#ffff;
+    font-size:200%;
+    font-weight: 300;
+}
+.ourproject1{
+    margin-left:18%;
+    margin-top:.5%;
+    color:#ffff;
+    font-size:200%;
+    font-weight: 300;
+}
+.img5{
+width: 15%;
+margin-left: 2%;
+margin-top: -2.5%;
+}
+.p2{
+    color: #FFF;
+    font-weight: 300;
+    margin-left: 30%;  
+    margin-top: -2.5%;
+}
+.img6{
+    width: 30%;
+    height: 230px;
+margin-left: 2%;
+margin-top: 6%;
+}
+.img7{
+    width: 30%;
+    height: 230px;
+margin-left: 2%;
+margin-top: 6%;
+}
+.img8{
+    width: 30%;
+    height: 230px;
+margin-left: 2%;
+margin-top: 6%;
+}
+.view{
+    margin-left: 45%;
+    margin-top: 2%;
+    border: 1px solid #FFF;
+background: #2B2929;
+color: #FFF;
+}
+.p3{
+    color: #fff;
+    margin-left: 6%;
+   margin-top: 2%;
+font-size: 130%;
+
+}
+.img1cpy{
+    width: 8%;
+margin-left: 52%;
+margin-top: .5%;
+}
+.talk{
+    margin-left: 52%;
+    margin-top: -10%;
+    color: #fff;
+    font-weight: 290;
+}
+.fortune{
+    margin-left: 61%;
+    margin-top: -7%;
+    font-size: 120%;
+    font-weight: 350;
+    color: #fff;
+}
+.interiors{
+    margin-left: 61%;
+    margin-top: -5.5%;
+    font-size: 120%;
+    font-weight: 350;
+    color: #fff;
+}
+.p4{
+    margin-left: 61%;
+    margin-top: -3.5%;
+    font-size: 110%;
+    font-weight: 280;
+    color: #fff; 
+}
+.p5{
+    margin-left: 80%;
+    margin-top: -8%;
+    font-size: 110%;
+    font-weight: 280;
+    color: #fff; 
+}
+.p6{
+    margin-left: 80%;
+    margin-top: -6%;
+    font-size: 110%;
+    font-weight: 280;
+    color: #fff; 
+}
+.p7{
+    margin-left: 80%;
+    margin-top: -4%;
+    font-size: 110%;
+    font-weight: 280;
+    color: #fff; 
+}
+.p8{
+    margin-left: 80%;
+    margin-top: -2%;
+    font-size: 110%;
+    font-weight: 280;
+    color: #fff; 
+}
+.p9{
+    margin-left: 80%;
+    margin-top: -1.3%;
+    font-size: 110%;
+    font-weight: 280;
+    color: #fff; 
+}
+.p10{
+    margin-left: 52%;
+    margin-top: 1%;
+    font-size: 110%;
+    font-weight: 280;
+    color: #fff; 
+}
+.p11{
+    margin-left: 80%;
+    margin-top: -12%;
+    font-size: 110%;
+    font-weight: 280;
+    color: #fff; 
+}
+.p12{
+    margin-left: 80%;
+    margin-top: -10%;
+    font-size: 110%;
+    font-weight: 280;
+    color: #fff; 
+}
+.p13{
+    margin-left: 52%;
+    margin-top: -.5%;
+    font-size: 100%;
+    font-weight: 200;
+    color: #fff;
+}
+.img10{
+    width: 2.5%;
+margin-left: 82%;
+margin-top: -6%;
+}
+.img7cpy{
+    width: 45%;
+    height: 330px;
+margin-left: 5.6%;
+margin-top: -27%;
+}
+
+    @media (max-width: 800px) {
+        .home {
+            margin-top: 5%;
+        }
+        .aboutus{
+           margin-left: 25%;
+           margin-top: -6.5%;
+           margin-bottom: -5%;
+        }
+        .service{
+            margin-left: 45%;
+           margin-bottom: -3%;
+           margin-top: 1%;
+        }
+        .projects{
+margin-bottom: -4%;
+margin-left: 62%;
+        }
+        .contact{
+            margin-left: 82%;
+        }
+        .img1{
+            width: 10%;
+
+        }
+        .img2{
+            margin-top: 5%;
+        }
+        .header{
+            margin-top: -12%;
+            margin-left: -6%;
+        }
+        .scroll1{
+            margin-top: 100%;
+        }
+        .scroll2{
+            margin-top: 180%;
+            height: 170%;
+        }
+        .bookappoinments{
+            margin-top: -16%;
+            color: #000;
+        }
+    .img7cpy{
+        margin-top: -60%;
+    }
+        
+    }
+    
